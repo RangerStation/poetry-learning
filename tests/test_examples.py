@@ -44,3 +44,5 @@ def test_mult__3_and_2_equals_6():
 
     # Then
     assert actual == 6
+
+
